@@ -9,7 +9,7 @@
 
 <img width="961" height="543" alt="image" src="https://github.com/user-attachments/assets/ef25f0ff-749c-4df6-adf2-4c1d4c855b17" />
 
-images/executive_dashboard.png
+![Executive Dashboard](images/executive_dashboard.png)
 
 
 ---
