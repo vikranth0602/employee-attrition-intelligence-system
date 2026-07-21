@@ -233,6 +233,10 @@ The project includes a fully interactive Power BI dashboard consisting of multip
 
 ![Employee Explorer](images/employee_risk_explorer.png)
 
+## Business Insights & Recommendations
+
+![Business Insights](images/business_insights.png)
+
 ---
 
 # Key Business Insights
