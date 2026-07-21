@@ -1,7 +1,10 @@
 # Employee Attrition Intelligence System
-### HR Analytics | SQL | Power BI | Machine Learning | Decision Support Dashboard
 
-> An end-to-end HR Analytics project that combines **SQL, Python, Machine Learning, and Power BI** to identify employee attrition risk, analyze workforce trends, and provide actionable business recommendations through an interactive executive dashboard.
+### End-to-End HR Analytics | SQL | Python | Machine Learning | Power BI
+
+> Predict employee attrition, identify high-risk employees, analyze workforce trends, and support HR decision-making through interactive business intelligence dashboards.
+
+<!-- > An end-to-end HR Analytics project that combines **SQL, Python, Machine Learning, and Power BI** to identify employee attrition risk, analyze workforce trends, and provide actionable business recommendations through an interactive executive dashboard. -->
 
 ---
 
@@ -349,15 +352,26 @@ notebooks/
 
 ---
 
-# Author
+## Repository Highlights
 
-**Your Name**
+- End-to-end analytics workflow
+- Predictive Machine Learning model
+- SQL business analytics
+- Interactive Power BI dashboard
+- Executive KPI reporting
+- Actionable HR recommendations
 
-Aspiring Data Analyst
+---
 
-**Skills**
+## Author
 
-Python • SQL • Power BI • Machine Learning • Data Analytics • Business Intelligence
+**Vikranth Basvoju**
+
+Aspiring Data Analyst | Software Engineer
+
+GitHub: https://github.com/vikranth0602
+
+LinkedIn: https://www.linkedin.com/in/vikranth-basvoju-v777/
 
 ---
 
