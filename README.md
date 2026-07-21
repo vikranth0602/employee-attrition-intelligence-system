@@ -7,10 +7,9 @@
 
 # Dashboard Preview
 
-<img width="961" height="543" alt="image" src="https://github.com/user-attachments/assets/ef25f0ff-749c-4df6-adf2-4c1d4c855b17" />
 
 
-
+![Executive Dashboard](images/executive_dashboard.png)
 
 ---
 
@@ -232,7 +231,7 @@ The project includes a fully interactive Power BI dashboard consisting of multip
 
 ## Employee Risk Explorer
 
-![Employee Explorer](images/employee_explorer.png)
+![Employee Explorer](images/employee_risk_explorer.png)
 
 ---
 
@@ -308,27 +307,30 @@ The project includes a fully interactive Power BI dashboard consisting of multip
 ```
 employee-attrition-intelligence-system/
 
-├── data/
-│   ├── raw/
-│   ├── cleaned/
-│   └── processed/
+README.md
+
+dashboards/
+│   Employee_Attrition_Dashboard.pbix
+
+data/
 │
-├── notebooks/
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_eda.ipynb
-│   ├── 03_feature_engineering.ipynb
-│   ├── 04_model_building.ipynb
-│   ├── 05_risk_scoring.ipynb
-│   ├── 06_sql_analytics.ipynb
-│   └── 07_powerbi_dashboard.ipynb
+├── raw/
+│      WA_Fn-UseC_-HR-Employee-Attrition.csv
 │
-├── dashboards/
-│   └── Employee_Attrition_Dashboard.pbix
-│
-├── images/
-│
-└── README.md
-```
+└── processed/
+       employee_attrition_risk_scores.csv
+
+images/
+│   executive_dashboard.png
+
+notebooks/
+│   01_data_audit_and_cleaning.ipynb
+│   02_exploratory_data_analysis.ipynb
+│   03_feature_engineering.ipynb
+│   04_ml_modeling.ipynb
+│   05_risk_scoring.ipynb
+│   06_sql_analytics.ipynb
+└── 07_powerbi_dashboard.ipynb
 
 ---
 
